@@ -6,3 +6,6 @@
 - Graphics Card: Ivy Bridge Graphics Controller (64MB)
 - Audio: ALC887
 - Erthnet: RTL8168/8111/8112
+
+# install docs
+- https://dortania.github.io/OpenCore-Install-Guide/config.plist/ivy-bridge.html
